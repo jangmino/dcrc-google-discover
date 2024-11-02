@@ -164,3 +164,15 @@ cython_debug/
 specs/
 local_data/
 .DS_Store
+src/analyze_metrics_wrt_dynamics_0_original.ipynb
+src/analyze_metrics_wrt_dynamics_1_original.ipynb
+src/analyze_metrics_wrt_dynamics_1.ipynb
+src/analyze_metrics_wrt_dynamics_2_original.ipynb
+src/analyze_metrics_wrt_dynamics_2.ipynb
+src/analyze_metrics_wrt_dynamics_3.ipynb
+src/analyze_metrics_wrt_dynamics_4.ipynb
+src/analyze_metrics_wrt_dynamics_5.ipynb
+src/analyze_metrics_wrt_dynamics_6.ipynb
+src/analyze_metrics_wrt_dynamics_7.ipynb
+src/graph_analysis-polish.ipynb
+src/graph_analysis-polish2.ipynb
